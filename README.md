@@ -10,10 +10,10 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: M.
 - ⚡ Fun fact:
--     My first HW/SW microprocessor development  was in fact a early prototype of sensitive keyboard, put on a plasma display,
--     to build an educationnal logical gates editor/simulator, visual and physical pins, ...
--     Y=1984, Cooperation with a microelectronic industry in Belgium !
--     We didn't know it was a precursor of our current gsm touch screen !
+     My first HW/SW microprocessor development  was in fact a early prototype of sensitive keyboard, put on a plasma display,
+     to build an educationnal logical gates editor/simulator, visual and physical pins, ...
+     Y=1984, Cooperation with a microelectronic industry in Belgium !
+     We didn't know it was a precursor of our current gsm touch screen !
 
 <!---
 RobertBxl/RobertBxl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
