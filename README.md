@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @RobertBxl,  Bxl= Brussels, Belgium, EU.
 - 
 - 👀 I’m interested in MicroControllers, RP20242, Pico, Micropython ......Also any digital topic.
--   (Large experience in Mutliprocessors,years 80, 6809,68000,z80, ... then 35 years in large banking environment, networking and/on IBM-Mainframe too)
+-   (Large experience in Mutliprocessors, years 80, 6809,68000,z80, ...
+     then 35 years in large banking environment, networking and/on IBM-Mainframe z../zOS too, including management and security.)
 -   
 - 🌱 I’m currently learning: (back to my favorite original stuff: digital micro processing) ... Deeply Starting on Pico...
 - 
