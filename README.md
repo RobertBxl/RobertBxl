@@ -10,9 +10,9 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: M.
 - ⚡ Fun fact:
-     My first HW/SW microprocessor development  was in fact a early prototype of sensitive keyboard, put on a plasma display,
+     My first HW/SW microprocessor development  was in fact an early prototype of sensitive transparent keyboard, put on a plasma display we interact with,
      to build an educationnal logical gates editor/simulator, visual and physical pins, ...
-     Y=1984, Cooperation with a microelectronic industry in Belgium !
+     Was in Y=1985, Cooperation with a microelectronic industry in Belgium !
      We didn't know it was a precursor of our current gsm touch screen !
 
 <!---
